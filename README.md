@@ -1,5 +1,5 @@
 # GoogleArchWithDaggerSample
-A Start Template with Lifecycle, ViewModel, LiveData, Room, Dagger
+A Start Template with Lifecycle, ViewModel, LiveData, Room, Dagger, etc.
 
 using bleow packages:
 * Lifecycle
